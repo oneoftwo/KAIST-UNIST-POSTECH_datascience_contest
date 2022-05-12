@@ -2,8 +2,9 @@
 Codes for 1st Datascience Contest of KAIST-UNIST-POSTECH.
 
 Contributors:  
-  [**jadehaus**](github.com/jadehaus)  
-  [**oneoftwo**](github.com/oneoftwo)  
+[**jadehaus**](github.com/jadehaus)  
+[**oneoftwo**](github.com/oneoftwo)  
+
 ---
 ### To start   
 Create conda environment and install the required packages by the following command:   
