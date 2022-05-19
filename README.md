@@ -1,5 +1,5 @@
 # UNIST-KAIST-POSTECH datascience contest
-Codes for 1st Datascience Contest of KAIST-UNIST-POSTECH.  
+Codes for 1st Datascience Contest of UNIST-KAIST-POSTECH.  
 https://www.datascience-contest.com/
 
 ---
